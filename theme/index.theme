@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Enasis Network Xfce Blue Numix
+Comment=Blue theme generated using Oomox and Numix
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=enasisnetwork-xfce-theme-blue
+GtkTheme=enasisnetwork-xfce-theme-blue
+IconTheme=enasisnetwork-xfce-theme-blue
+MetacityTheme=enasisnetwork-xfce-theme-blue
