@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>enasisnetwork-xfce-theme-blue</name>
-	<author>Enasis Network</author>
+	<name>theme.new</name>
+	<author>Satyajit Sahoo</author>
 	<copyright>GPL-3.0+</copyright>
 	<date>11 December 2013</date>
 	<description>Numix Metacity Theme</description>
 </info>
 
 <!-- ::: CONSTANTS ::: -->
-<constant name="C_titlebar_focused" value="#0a0a1a" />
-<constant name="C_titlebar_unfocused" value="#0a0a1a" />
-<constant name="C_border_focused" value="#000066" />
-<constant name="C_border_unfocused" value="#000033" />
+<constant name="C_titlebar_focused" value="#021822" />
+<constant name="C_titlebar_unfocused" value="#021822" />
+<constant name="C_border_focused" value="#04415b" />
+<constant name="C_border_unfocused" value="#032f42" />
 <constant name="C_title_focused" value="#efefef" />
-<constant name="C_title_unfocused" value="blend/#efefef/#0a0a1a/0.4" />
+<constant name="C_title_unfocused" value="blend/#efefef/#021822/0.4" />
 <constant name="C_icons_focused" value="#efefef" />
 <constant name="C_icons_focused_prelight" value="gtk:bg[SELECTED])" />
 <constant name="C_icons_focused_pressed" value="shade/gtk:bg[SELECTED]/0.8" />
-<constant name="C_icons_unfocused" value="blend/#efefef/#0a0a1a/0.4" />
+<constant name="C_icons_unfocused" value="blend/#efefef/#021822/0.4" />
 <constant name="C_icons_unfocused_prelight" value="gtk:bg[SELECTED])" />
 <constant name="C_icons_unfocused_pressed" value="shade/gtk:bg[SELECTED]/0.8" />
 
